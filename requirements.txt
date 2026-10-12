@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+langchain-core
+langchain-ollama
+python-dotenv
+shapely
+pyproj
